@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mercymogotio
+- 👀 I’m interested in being a software developer
+- 🌱 I’m currently learning python language
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me +254743299966
